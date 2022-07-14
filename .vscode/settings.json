@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Century Schoolbook",
+    "editor.suggestLineHeight": 0,
+    "editor.lineHeight": 1.6,
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true
+}
