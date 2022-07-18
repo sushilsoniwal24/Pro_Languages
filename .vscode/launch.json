@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Constructors",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs2_Constructors.Constructors",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classes_And_Objects",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs1_Classes_And_Objects.Classes_And_Objects",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Construct",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.Construct",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Copy",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.Copy",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Java.Java_OOPs.Main",
