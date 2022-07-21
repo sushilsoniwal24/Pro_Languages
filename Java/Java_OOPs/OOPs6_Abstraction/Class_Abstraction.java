@@ -5,12 +5,14 @@ abstract class Birds {
 }
 
 class Parrot extends Birds {
+    @Override
     void color() {
         System.out.println("Parrot's color is green");
     }
 }
 
 class Crow extends Birds {
+    @Override
     void color() {
         System.out.println("Crow's color is black");
     }
