@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Abstract_Method_In_Java",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs6_Abstraction.Abstract_Method_In_Java",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class_Abstraction",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs6_Abstraction.Class_Abstraction",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encapsulation",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs5_Encapsulation.Encapsulation",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hierarchical_Inheritance",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs4_Inheritance.Hierarchical_Inheritance",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multilevel_Inheritance",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs4_Inheritance.Multilevel_Inheritance",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Single_Inheritance",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs4_Inheritance.Single_Inheritance",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method_Overriding",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs3_PolyMorphism.Method_Overriding",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method_Overloading",
+            "request": "launch",
+            "mainClass": "Java.Java_OOPs.OOPs3_PolyMorphism.Method_Overloading",
+            "projectName": "Prog_Lang_3afd5f3a"
+        },
+        {
+            "type": "java",
             "name": "Launch Constructors",
             "request": "launch",
             "mainClass": "Java.Java_OOPs.OOPs2_Constructors.Constructors",
